@@ -1,27 +1,4 @@
 # Several py scripts are in this rep
-first repository to understand how github works
-this is the 3rd line
-fourth
-fifth
-sixth
-fourth
-fifth
-sixth
-fourth
-fifth
-sixth
-fourth
-fifth
-sixth
-fourth
-fifth
-sixth
-fourth
-fifth
-sixth
-fourth
-fifth
-sixth
-fourth
-fifth
-sixth
+Here you will find python scripts that I have been building to level up my python skills
+Python scripts like automation processes, simple graphics games and and more
+You will find detailed information for every script inside the files
